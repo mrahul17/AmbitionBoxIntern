@@ -44,3 +44,18 @@ body{
   -webkit-animation-iteration-count: infinite;
 
 }
+#discover{
+	font-family: 'Clear Sans';
+}
+.button{
+	width:80%;
+	padding:10px 1px;
+
+	/*padding-top:6px;
+	padding-bottom: 6px;
+	padding-right:1px;
+	padding-left: 1px;*/
+}
+.baseline{vertical-align:baseline;} 
+.textmiddle {vertical-align:middle;} 
+.textbottom {vertical-align:bottom;} 
