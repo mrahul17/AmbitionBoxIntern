@@ -1,5 +1,5 @@
 body{
-	background-image: url(../img/background.png);
+	background-image: url(../img/background.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
 	background-position: center;
@@ -39,8 +39,8 @@ body{
 #arrow{
 
     
-    -webkit-animation-duration: 1s;
-  -webkit-animation-delay: 0s;
+    -webkit-animation-duration: 3.5s;
+  -webkit-animation-delay: 1s;
   -webkit-animation-iteration-count: infinite;
 
 }
