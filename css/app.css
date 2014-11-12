@@ -12,14 +12,27 @@ body{
     top: 0px;
     left: 0px;
 }
-#container{
+/*#container{
 	position: absolute;
 	margin-top:20%;
-	margin-left: 30%;
-}
+	margin-left: 25%;
+}*/
 #down{
 
 	position: absolute;
 	margin-top: 40%;
 	margin-left: 50%
+}
+#login{
+	
+	background:rgba(255,255,255,0.1);
+
+	font-family:montserrat;
+}
+#login:hover{
+	background:rgba(255,255,255,1);
+	color:#2c3e50;
+}
+#container{
+
 }
