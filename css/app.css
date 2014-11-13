@@ -37,7 +37,7 @@ body{
 
 }
 #arrow{
-
+	opacity:0.3;
     
     -webkit-animation-duration: 3.5s;
   -webkit-animation-delay: 1s;
