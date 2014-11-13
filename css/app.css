@@ -23,11 +23,25 @@ body{
 	margin-top: 40%;
 	margin-left: 50%
 }
+.button{
+	width:80%;
+	padding:10px 1px;
+
+	/*padding-top:6px;
+	padding-bottom: 6px;
+	padding-right:1px;
+	padding-left: 1px;*/
+}
 #login{
 	
 	background:rgba(255,255,255,0.1);
 
 	font-family:montserrat;
+	display:inline-block;
+	opacity:0.9;
+	font-size:15px;
+	font-weight:bold
+
 }
 #login:hover{
 	background:rgba(255,255,255,1);
@@ -46,16 +60,14 @@ body{
 }
 #discover{
 	font-family: 'Clear Sans';
+	text-align:center;
+	font-size:30px;
+	font-weight:bold;
+	float:left;
+	color:white;
+	opacity:0.7
 }
-.button{
-	width:80%;
-	padding:10px 1px;
 
-	/*padding-top:6px;
-	padding-bottom: 6px;
-	padding-right:1px;
-	padding-left: 1px;*/
-}
 .baseline{vertical-align:baseline;} 
 .textmiddle {vertical-align:middle;} 
 .textbottom {vertical-align:bottom;} 
